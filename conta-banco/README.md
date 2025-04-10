@@ -1,8 +1,4 @@
-# DIO - Trilha Java Backend
-
-#### Ministrado por: Gleyson Sampaio
-
-## Desafio:
+# Desafio de Projeto 1
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
