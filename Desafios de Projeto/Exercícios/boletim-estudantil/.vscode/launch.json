@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Operadores",
+      "request": "launch",
+      "mainClass": "Operadores",
+      "projectName": "primeiro-projeto_df5d4a65"
+    },
+    {
+      "type": "java",
+      "name": "BoletimEstudantil",
+      "request": "launch",
+      "mainClass": "BoletimEstudantil",
+      "projectName": "primeiro-projeto_df5d4a65"
+    },
+    {
+      "type": "java",
+      "name": "Run Java in Terminal",
+      "request": "launch",
+      "mainClass": "Main",
+      "console": "integratedTerminal"
+    }
+  ]
+}
